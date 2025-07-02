@@ -1,0 +1,44 @@
+/* Fondo general del chat */
+.bpw-chat-container {
+  background-color: #f4fdf4;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Burbujas del bot (Zapallin) */
+.bpw-bot-message {
+  background-color: #a5d6a7; /* verde claro */
+  color: #1b3a1b;
+  border-radius: 14px;
+}
+
+/* Burbujas del usuario */
+.bpw-user-message {
+  background-color: #81d4fa; /* azul cielo */
+  color: #00324d;
+  border-radius: 14px;
+}
+
+/* Botón flotante */
+.bpw-floating-button {
+  background-color: #43a047 !important; /* verde bosque */
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Texto en el chat */
+.bpw-message-text {
+  font-size: 16px;
+}
+
+/* Encabezado del chat */
+.bpw-header {
+  background-color: #2e7d32;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Input del usuario */
+.bpw-composer {
+  background-color: #ffffff;
+}
